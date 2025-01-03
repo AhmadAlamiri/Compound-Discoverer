@@ -17,7 +17,7 @@ import traceback    # Print or retrieve a stack traceback.
 
 # Read Command Line Arguments
 # Read the Command Line arguments passed by Compound Discoverer upon initiation of the scripting node feature.
-# We are only interested in the 2nd ([1]) argument, which contains the location of the would be newly-created node_args.json file. 
+# We are only interested in the 2nd ([1]) argument, which contains the location of the would be newly-created 'node_args.json' file. 
 # This file contains essential information about the exported data, including location(s) of the exported text files as well as the row IDs, columns, and column attributes of the exported tables.
 # Define Input File ('node_args.json' file) - located in the 2nd ([1]) argument of the variable 'args'.
 input_file = sys.argv[1]
