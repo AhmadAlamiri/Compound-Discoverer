@@ -1,7 +1,7 @@
 {
   "CurrentWorkflowID": 239,
   "ExpectedResponsePath": "C:/ProgramData/Thermo/Compound Discoverer 3.3/Scratch/Job239/Script(3)/node_response.json",
-  "ResultFilePath": "C:/Compound Discoverer Data/Studies/Oregano Study/Suspect versus Genuine - R - 06_new_column_and_new_table.cdResult",
+  "ResultFilePath": "C:/Compound Discoverer Data/Studies/Oregano Study/Suspect versus Genuine - 06_new_column_and_new_table.cdResult",
   "NodeParameters": {},
   "Version": 1,
   "Tables": [
