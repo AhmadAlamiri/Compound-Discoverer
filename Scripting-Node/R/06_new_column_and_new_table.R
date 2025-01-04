@@ -199,14 +199,14 @@ CD_table_3$ColumnDescriptions <- list(
     Options = list()    # Assuming no options; can be updated later.
   ),
   list(
-    ColumnName = 'New CD Table WorkflowID',
-    ID = 'WorkflowID',
+    ColumnName = 'New CD Table ID',
+    ID = 'ID',
     DataType = 'Int',
     Options = list()    # Assuming no options; can be updated later.
   ),
   list(
-    ColumnName = 'New CD Table ID',
-    ID = 'ID',
+    ColumnName = 'New CD Table WorkflowID',
+    ID = 'WorkflowID',
     DataType = 'Int',
     Options = list()    # Assuming no options; can be updated later.
   )
