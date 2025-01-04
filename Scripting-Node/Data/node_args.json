@@ -1,0 +1,301 @@
+{
+  "CurrentWorkflowID": 239,
+  "ExpectedResponsePath": "C:/ProgramData/Thermo/Compound Discoverer 3.3/Scratch/Job239/Script(3)/node_response.json",
+  "ResultFilePath": "C:/Compound Discoverer Data/Studies/Oregano Study/Suspect versus Genuine - R - 06_new_column_and_new_table.cdResult",
+  "NodeParameters": {},
+  "Version": 1,
+  "Tables": [
+    {
+      "TableName": "GC EI Compounds",
+      "DataFile": "C:/ProgramData/Thermo/Compound Discoverer 3.3/Scratch/Job239/Script(3)/ConsolidatedGCEICompoundItem.txt",
+      "DataFormat": "CSV",
+      "Options": {},
+      "ColumnDescriptions": [
+        {
+          "ColumnName": "GC EI Compounds ID",
+          "ID": "ID",
+          "DataType": "Int",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Structure",
+          "ID": "",
+          "DataType": "String",
+          "Options": {}
+        },
+        {
+          "ColumnName": "TIC Sum",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Name",
+          "ID": "",
+          "DataType": "String",
+          "Options": {}
+        },
+        {
+          "ColumnName": "RT in min",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Reference mz",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Avg TIC",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "NIST Lib Hit Formula",
+          "ID": "",
+          "DataType": "String",
+          "Options": {}
+        },
+        {
+          "ColumnName": "NIST Theo Mol Mass",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "NIST Observed Mol Mass",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Area Max",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "MS Depth",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Total Score",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "HRF Score",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "RHRF Score",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "SI",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {}
+        },
+        {
+          "ColumnName": "RSI",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Calculated RI",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {}
+        },
+        {
+          "ColumnName": "RI Delta",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {}
+        },
+        {
+          "ColumnName": "MS2",
+          "ID": "",
+          "DataType": "String",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Calc MW",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Checked",
+          "ID": "",
+          "DataType": "Boolean",
+          "Options": {}
+        },
+        {
+          "ColumnName": "Tags",
+          "ID": "",
+          "DataType": "Boolean",
+          "Options": {
+            "DataGroupName": "Tags"
+          }
+        },
+        {
+          "ColumnName": "Area Genuine_1raw F1",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {
+            "DataGroupName": "Area"
+          }
+        },
+        {
+          "ColumnName": "Area Genuine_2raw F2",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {
+            "DataGroupName": "Area"
+          }
+        },
+        {
+          "ColumnName": "Area Genuine_3raw F3",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {
+            "DataGroupName": "Area"
+          }
+        },
+        {
+          "ColumnName": "Area Suspect_1raw F4",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {
+            "DataGroupName": "Area"
+          }
+        },
+        {
+          "ColumnName": "Area Suspect_2raw F5",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {
+            "DataGroupName": "Area"
+          }
+        },
+        {
+          "ColumnName": "Area Suspect_3raw F6",
+          "ID": "",
+          "DataType": "Float",
+          "Options": {
+            "DataGroupName": "Area"
+          }
+        },
+        {
+          "ColumnName": "Gap Status Genuine_1raw F1",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Status Genuine_2raw F2",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Status Genuine_3raw F3",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Status Suspect_1raw F4",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Status Suspect_2raw F5",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Status Suspect_3raw F6",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Fill Status Genuine_1raw F1",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapFillStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Fill Status Genuine_2raw F2",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapFillStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Fill Status Genuine_3raw F3",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapFillStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Fill Status Suspect_1raw F4",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapFillStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Fill Status Suspect_2raw F5",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapFillStatus"
+          }
+        },
+        {
+          "ColumnName": "Gap Fill Status Suspect_3raw F6",
+          "ID": "",
+          "DataType": "Int",
+          "Options": {
+            "DataGroupName": "GapFillStatus"
+          }
+        }
+      ]
+    }
+  ]
+}
